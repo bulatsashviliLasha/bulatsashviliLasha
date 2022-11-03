@@ -35,18 +35,3 @@ My background in customer service and problem-solving in the News and media indu
 <div>
  
   
-  <div>
-    <h2 align="center"> 📊 Github stats </h2>
-      <br/>
-        <p align="center">
-          <a href="https://github.com/bulatsashviliLasha/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulatsashviliLasha&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Lasha" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/bulatsashviliLasha">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bulatsashviliLasha&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bulatsashviliLasha&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
-  </div>    
